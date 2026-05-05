@@ -20,9 +20,11 @@
 - **Hệ thống cảm xúc & âm đệm**: Yuki biết sử dụng các từ đệm tự nhiên như *"Eh?", "Waa!", "Yatta!"* nhờ tích hợp sâu với VoiceVox.
 - **Phản hồi theo năng lực (Tiered Rewards)**: Yuki sẽ khen ngợi nồng nhiệt nếu bạn đạt điểm cao (Rank S/A) và an ủi, động viên chân thành nếu bạn làm bài chưa tốt (Rank C).
 
-### 3. 🎮 Hệ thống Trò chơi Thông minh
+### 3. 🎮 Hệ thống Trò chơi & Gamification
 - **Game 1 — Nazonazo (なぞなぞ)**: Giải đố tiếng Nhật kết hợp kiến thức Văn hóa ⛩, Du lịch 🌸, Anime 🎌 và Yōkai 👺.
-- **Game 2 — Design Quiz**: AI tự động phân tích sơ đồ bài học bạn vừa vẽ để tạo ra các câu hỏi tình huống thực tế, giúp bạn hiểu cách dùng từ trong ngữ cảnh cụ thể.
+- **Game 2 — Design Quiz**: AI tự động phân tích sơ đồ bài học bạn vừa vẽ để tạo ra các câu hỏi tình huống thực tế.
+- **Hệ thống Điểm & Streak**: Theo dõi tiến độ học tập hàng ngày, tích lũy điểm thưởng và duy trì chuỗi ngày học tập (Streak) để nhận phần thưởng đặc biệt từ Yuki.
+- **Năng lượng & Thể lực**: Cơ chế giới hạn năng lượng học tập hàng ngày giúp bạn phân bổ thời gian học hợp lý, tránh quá tải.
 
 ### 4. 🚀 Tối ưu hóa Apple Silicon (MLX Support)
 - **Siêu tốc độ trên Mac**: Hỗ trợ native framework **MLX** của Apple, cho phép chạy các mô hình ngôn ngữ lớn (LLM) như **Qwen2** hay **Gemma 2** với tốc độ cực nhanh và tiết kiệm RAM tối đa trên chip M1/M2/M3/M4.
