@@ -654,7 +654,7 @@ class ConnectionItem(QGraphicsPathItem):
         lbl = self.conn_data.label
         if lbl:
             mid = self.path().pointAtPercent(0.5)
-            f = QFont("Helvetica Neue", 8, QFont.Bold)
+            f = QFont("Arial", 9, QFont.Bold)
             painter.setFont(f)
             fm = QFontMetrics(f)
             tw = fm.horizontalAdvance(lbl)
@@ -1284,10 +1284,12 @@ QDialog {{
     color: {C['text_primary']};
     border: 1px solid {C['border_lit']};
     border-radius: 12px;
+    font-family: 'Arial', 'Helvetica', sans-serif;
 }}
 QLabel {{
     color: {C['text_secondary']};
     font-size: 11px;
+    font-family: 'Arial', 'Helvetica', sans-serif;
 }}
 QLineEdit {{
     background: {C['bg_card']};
@@ -1296,6 +1298,7 @@ QLineEdit {{
     border-radius: 6px;
     padding: 6px 10px;
     font-size: 14px;
+    font-family: 'Arial', 'Helvetica', sans-serif;
 }}
 QLineEdit:focus {{
     border: 1px solid {C['kotoba_accent']};
@@ -2445,7 +2448,7 @@ class BonsaiChatDialog(QDialog):
         self.setStyleSheet(f"""
             QDialog {{ background: {C['bg_dark']}; border: 1px solid {C['border']}; border-radius: 12px; }}
             QLineEdit {{ background: {C['bg_card']}; color: {C['text_primary']}; border: 1px solid {C['border']}; 
-                         border-radius: 18px; padding: 10px 16px; font-size: 13px; }}
+                         border-radius: 18px; padding: 10px 16px; font-size: 13px; font-family: 'Arial', 'Helvetica', sans-serif; }}
             QScrollArea {{ border: none; background: transparent; }}
         """)
         
@@ -4103,6 +4106,11 @@ def main():
     global _projects_cache
     app = QApplication(sys.argv)
     app.setApplicationName("Kotoba Designer")
+
+    # Force a font that supports Vietnamese Unicode characters globally
+    # Arial and Helvetica are safe bets on both Mac and Windows
+    default_font = QFont("Arial", 10)
+    app.setFont(default_font)
 
     # Qt6 handles high-DPI pixmaps by default.
 
