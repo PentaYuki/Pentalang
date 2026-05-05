@@ -1,0 +1,528 @@
+{
+  "id": "6b524453",
+  "name": "Bài1 : họ hàng gia đinh",
+  "created": "2026-04-07 08:23",
+  "blocks": [
+    {
+      "id": "c3e36202",
+      "btype": "kotoba",
+      "kanji": "祖先",
+      "hira": "そせん",
+      "grammar": "",
+      "label": "",
+      "x": -707.2525000000004,
+      "y": -342.75999999999993,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/c3e36202.wav"
+    },
+    {
+      "id": "adb72253",
+      "btype": "kotoba",
+      "kanji": "子孫",
+      "hira": "しそん",
+      "grammar": "",
+      "label": "",
+      "x": -330.77750000000003,
+      "y": -364.6999999999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/adb72253.wav"
+    },
+    {
+      "id": "36b50f76",
+      "btype": "kotoba",
+      "kanji": "一家",
+      "hira": "いっか",
+      "grammar": "",
+      "label": "",
+      "x": -710.65,
+      "y": -162.70000000000007,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/36b50f76.wav"
+    },
+    {
+      "id": "f1890417",
+      "btype": "kotoba",
+      "kanji": "坊ちゃん",
+      "hira": "ぼっちゃん",
+      "grammar": "",
+      "label": "",
+      "x": 195.79999999999973,
+      "y": -254.3000000000001,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/f1890417.wav"
+    },
+    {
+      "id": "6bb55ddb",
+      "btype": "kotoba",
+      "kanji": "お嬢ちゃん",
+      "hira": "おじょうちゃん",
+      "grammar": "",
+      "label": "",
+      "x": 497.4499999999998,
+      "y": -259.62249999999995,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/6bb55ddb.wav"
+    },
+    {
+      "id": "e713d6c6",
+      "btype": "kotoba",
+      "kanji": "知人",
+      "hira": "ちじん",
+      "grammar": "",
+      "label": "",
+      "x": -196.10500000000036,
+      "y": 383.755,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/e713d6c6.wav"
+    },
+    {
+      "id": "968cbe9c",
+      "btype": "kotoba",
+      "kanji": "親孝行",
+      "hira": "おやこうこう",
+      "grammar": "",
+      "label": "",
+      "x": -535.0600000000002,
+      "y": 37.397500000000036,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/968cbe9c.wav"
+    },
+    {
+      "id": "709cafca",
+      "btype": "kotoba",
+      "kanji": "一人っ子",
+      "hira": "ひとりっこ",
+      "grammar": "",
+      "label": "",
+      "x": 222.75000000000003,
+      "y": -372.3499999999998,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/709cafca.wav"
+    },
+    {
+      "id": "278d9620",
+      "btype": "kotoba",
+      "kanji": "双子",
+      "hira": "ふたご",
+      "grammar": "",
+      "label": "",
+      "x": -136.8499999999999,
+      "y": -130.75000000000023,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/278d9620.wav"
+    },
+    {
+      "id": "9df9defc",
+      "btype": "kotoba",
+      "kanji": "双生児",
+      "hira": "そうせいじ",
+      "grammar": "",
+      "label": "",
+      "x": 222.8775000000001,
+      "y": -139.47499999999997,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/9df9defc.wav"
+    },
+    {
+      "id": "97abef34",
+      "btype": "kotoba",
+      "kanji": "夫婦",
+      "hira": "ふうふ",
+      "grammar": "",
+      "label": "",
+      "x": -84.85000000000011,
+      "y": -366.69999999999993,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/97abef34.wav"
+    },
+    {
+      "id": "9d9d3211",
+      "btype": "kotoba",
+      "kanji": "言葉遣い",
+      "hira": "ことばづかい",
+      "grammar": "",
+      "label": "",
+      "x": 369.1499999999999,
+      "y": 131.9050000000001,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/9d9d3211.wav"
+    },
+    {
+      "id": "a128c1f5",
+      "btype": "kotoba",
+      "kanji": "気遣い",
+      "hira": "きづかい",
+      "grammar": "",
+      "label": "",
+      "x": 382.2024999999998,
+      "y": 241.1550000000003,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/a128c1f5.wav"
+    },
+    {
+      "id": "78190ebb",
+      "btype": "kotoba",
+      "kanji": "コミュニケーション",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": -150.76499999999987,
+      "y": 153.55999999999992,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/78190ebb.wav"
+    },
+    {
+      "id": "26d83654",
+      "btype": "kotoba",
+      "kanji": "取り消す",
+      "hira": "とりけす",
+      "grammar": "",
+      "label": "",
+      "x": -725.8867499999993,
+      "y": 397.928,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/26d83654.wav"
+    },
+    {
+      "id": "7c01e5ba",
+      "btype": "kotoba",
+      "kanji": "お辞儀をする",
+      "hira": "おじぎをする",
+      "grammar": "",
+      "label": "",
+      "x": 54.36500000000001,
+      "y": 308.0049999999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/7c01e5ba.wav"
+    },
+    {
+      "id": "fdeb0440",
+      "btype": "kotoba",
+      "kanji": "従兄弟",
+      "hira": "いとこ",
+      "grammar": "",
+      "label": "",
+      "x": -41.75000000000006,
+      "y": 28.349999999999973,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/fdeb0440.wav"
+    },
+    {
+      "id": "8458391d",
+      "btype": "grammar",
+      "kanji": "",
+      "hira": "",
+      "grammar": "～際（に）",
+      "label": "",
+      "x": -459.5000000000001,
+      "y": 317.4,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/8458391d.wav"
+    },
+    {
+      "id": "86ad0dbf",
+      "btype": "grammar",
+      "kanji": "",
+      "hira": "",
+      "grammar": "～に際して",
+      "label": "",
+      "x": -411.85,
+      "y": 155.51249999999993,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/86ad0dbf.wav"
+    },
+    {
+      "id": "1842d2c9",
+      "btype": "grammar",
+      "kanji": "",
+      "hira": "",
+      "grammar": "～にあたって",
+      "label": "",
+      "x": -518.3,
+      "y": -232.99999999999997,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/1842d2c9.wav"
+    },
+    {
+      "id": "59eac1a3",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "祖先 , 子孫 , 一家",
+      "x": -463.08,
+      "y": -62.56999999999998,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/59eac1a3.wav"
+    },
+    {
+      "id": "fe1773af",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "一人っ子 , 双子 , 坊ちゃん / お嬢ちゃん",
+      "x": 271.40000000000003,
+      "y": 3.4499999999999957,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/fe1773af.wav"
+    },
+    {
+      "id": "2c137403",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "社会",
+      "x": -750.9500000000002,
+      "y": 193.19999999999996,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/2c137403.wav"
+    },
+    {
+      "id": "943493c5",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "コミュニケーションにおいて、相手への気遣いと正しい言葉遣いは欠かせません。",
+      "x": 99.47499999999998,
+      "y": 191.015,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/943493c5.wav"
+    },
+    {
+      "id": "03ad3001",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "知人に会った際には、丁寧にお辞儀をすることが大切です。",
+      "x": -227.46999999999997,
+      "y": 279.9674999999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/03ad3001.wav"
+    },
+    {
+      "id": "fb08fbf3",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "失礼なことを言ってしまったので、さっきの発言を取り消したいです。",
+      "x": -759.0,
+      "y": 284.04999999999995,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/appNhậtBản/voice/bài1_họ_hàng_gia_đinh/fb08fbf3.wav"
+    }
+  ],
+  "conns": [
+    {
+      "id": "73af7a25",
+      "src_id": "c3e36202",
+      "dst_id": "36b50f76",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "Tổ tiên trong một gia tộc"
+    },
+    {
+      "id": "bb204dfa",
+      "src_id": "c3e36202",
+      "dst_id": "adb72253",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "con cái cùng với gia đình"
+    },
+    {
+      "id": "33eef8a1",
+      "src_id": "36b50f76",
+      "dst_id": "1842d2c9",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "c25cdbfd",
+      "src_id": "adb72253",
+      "dst_id": "1842d2c9",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": "nhân dịp gặp nhau"
+    },
+    {
+      "id": "955c9521",
+      "src_id": "59eac1a3",
+      "dst_id": "1842d2c9",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "4558c7cf",
+      "src_id": "59eac1a3",
+      "dst_id": "968cbe9c",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": "đó gọi là hiếu thảo"
+    },
+    {
+      "id": "b1f715f4",
+      "src_id": "97abef34",
+      "dst_id": "adb72253",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "b7f7bd2e",
+      "src_id": "278d9620",
+      "dst_id": "97abef34",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": "con cái 2 con sinh đôi"
+    },
+    {
+      "id": "b66037a2",
+      "src_id": "9df9defc",
+      "dst_id": "278d9620",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "3e027854",
+      "src_id": "709cafca",
+      "dst_id": "97abef34",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "con cái sinh một đứa"
+    },
+    {
+      "id": "358a38ee",
+      "src_id": "709cafca",
+      "dst_id": "f1890417",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "3d477deb",
+      "src_id": "6bb55ddb",
+      "dst_id": "f1890417",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "giới tính nam nữ"
+    },
+    {
+      "id": "477138a2",
+      "src_id": "6bb55ddb",
+      "dst_id": "9df9defc",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "a7cf58cf",
+      "src_id": "f1890417",
+      "dst_id": "278d9620",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "20945673",
+      "src_id": "fdeb0440",
+      "dst_id": "adb72253",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "lặp gia đình và tạo thành mối quan hệ họ hàng"
+    },
+    {
+      "id": "08be0684",
+      "src_id": "fdeb0440",
+      "dst_id": "fe1773af",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "d0ae3901",
+      "src_id": "fe1773af",
+      "dst_id": "6bb55ddb",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "948385ed",
+      "src_id": "2c137403",
+      "dst_id": "c3e36202",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "Là mộ nhánh khác của quan hệ gọi quan hệ bên ngoài"
+    },
+    {
+      "id": "4ceb2f34",
+      "src_id": "86ad0dbf",
+      "dst_id": "2c137403",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "sự kiện đặc biêt"
+    },
+    {
+      "id": "86a41daa",
+      "src_id": "8458391d",
+      "dst_id": "2c137403",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "sự kiện thường nhưng trang trong hơn toki"
+    },
+    {
+      "id": "e101dfb3",
+      "src_id": "78190ebb",
+      "dst_id": "943493c5",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "c29d2d63",
+      "src_id": "943493c5",
+      "dst_id": "9d9d3211",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "20941c78",
+      "src_id": "a128c1f5",
+      "dst_id": "943493c5",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "bab1c6d6",
+      "src_id": "03ad3001",
+      "dst_id": "8458391d",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "6ebbd56a",
+      "src_id": "e713d6c6",
+      "dst_id": "8458391d",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "quan hệ gặp người quen"
+    },
+    {
+      "id": "d7071f39",
+      "src_id": "03ad3001",
+      "dst_id": "7c01e5ba",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "8a590055",
+      "src_id": "e713d6c6",
+      "dst_id": "03ad3001",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "3e6a0b38",
+      "src_id": "fb08fbf3",
+      "dst_id": "2c137403",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "dfd73c1b",
+      "src_id": "fb08fbf3",
+      "dst_id": "26d83654",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": ""
+    }
+  ],
+  "updated_at": "2026-04-16 17:40:02"
+}

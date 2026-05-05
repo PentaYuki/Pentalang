@@ -1,0 +1,766 @@
+{
+  "id": "30222d0d",
+  "name": "Bài2 tính cách",
+  "created": "2026-04-15 21:03",
+  "blocks": [
+    {
+      "id": "bb6e3458",
+      "btype": "kotoba",
+      "kanji": "おとなしい",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": 101.2273125000001,
+      "y": 761.1402812499999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/bb6e3458.wav"
+    },
+    {
+      "id": "a69c571e",
+      "btype": "kotoba",
+      "kanji": "喧しい",
+      "hira": "やかましい",
+      "grammar": "",
+      "label": "",
+      "x": 175.42484375000038,
+      "y": 625.6565874999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/a69c571e.wav"
+    },
+    {
+      "id": "e43da5b6",
+      "btype": "kotoba",
+      "kanji": "慎重な",
+      "hira": "しんちょう",
+      "grammar": "",
+      "label": "",
+      "x": -529.1575,
+      "y": -474.1374999999998,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/e43da5b6.wav"
+    },
+    {
+      "id": "ee8ed04f",
+      "btype": "kotoba",
+      "kanji": "そそっかしい",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": -848.2325000000002,
+      "y": -472.96000000000015,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/ee8ed04f.wav"
+    },
+    {
+      "id": "a3406dc5",
+      "btype": "kotoba",
+      "kanji": "きちんとした",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": -291.7649999999999,
+      "y": -475.88750000000005,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/a3406dc5.wav"
+    },
+    {
+      "id": "44465e72",
+      "btype": "kotoba",
+      "kanji": "だらしない",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": -517.76,
+      "y": -351.9749999999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/44465e72.wav"
+    },
+    {
+      "id": "1327f37e",
+      "btype": "kotoba",
+      "kanji": "器用な",
+      "hira": "きよう",
+      "grammar": "",
+      "label": "",
+      "x": -517.9207499999998,
+      "y": -214.5335,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/1327f37e.wav"
+    },
+    {
+      "id": "57a7a44b",
+      "btype": "kotoba",
+      "kanji": "不器用な",
+      "hira": "ぶきよう",
+      "grammar": "",
+      "label": "",
+      "x": -260.94975,
+      "y": -336.95937500000014,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/57a7a44b.wav"
+    },
+    {
+      "id": "0116e55c",
+      "btype": "kotoba",
+      "kanji": "要領がいい",
+      "hira": "ようりょうがいい",
+      "grammar": "",
+      "label": "",
+      "x": 244.92570624999996,
+      "y": 516.9355749999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/0116e55c.wav"
+    },
+    {
+      "id": "61fd6826",
+      "btype": "kotoba",
+      "kanji": "謙虚な",
+      "hira": "けんきょ",
+      "grammar": "",
+      "label": "",
+      "x": -943.9294312499998,
+      "y": -58.14197500000015,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/61fd6826.wav"
+    },
+    {
+      "id": "04228b31",
+      "btype": "kotoba",
+      "kanji": "生意気な",
+      "hira": "なまいき",
+      "grammar": "",
+      "label": "",
+      "x": -621.1492062499999,
+      "y": -63.64726250000007,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/04228b31.wav"
+    },
+    {
+      "id": "43b309b7",
+      "btype": "kotoba",
+      "kanji": "勘が鋭い",
+      "hira": "かんがするどい",
+      "grammar": "",
+      "label": "",
+      "x": -6.037500000000179,
+      "y": -321.1724999999998,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/43b309b7.wav"
+    },
+    {
+      "id": "d7dc0e10",
+      "btype": "kotoba",
+      "kanji": "勘が鈍い",
+      "hira": "かんがにぶい",
+      "grammar": "",
+      "label": "",
+      "x": -22.592499999999916,
+      "y": -465.62999999999977,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/d7dc0e10.wav"
+    },
+    {
+      "id": "fca8898a",
+      "btype": "kotoba",
+      "kanji": "弱気な",
+      "hira": "よわきな",
+      "grammar": "",
+      "label": "",
+      "x": -844.1751249999995,
+      "y": -184.0278749999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/fca8898a.wav"
+    },
+    {
+      "id": "2f01eb52",
+      "btype": "kotoba",
+      "kanji": "強気な",
+      "hira": "つよきな",
+      "grammar": "",
+      "label": "",
+      "x": -823.9885687499992,
+      "y": 39.42468750000019,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/2f01eb52.wav"
+    },
+    {
+      "id": "880f5513",
+      "btype": "kotoba",
+      "kanji": "陽気な",
+      "hira": "ようきな",
+      "grammar": "",
+      "label": "",
+      "x": -597.0556374999998,
+      "y": 224.90260625000013,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/880f5513.wav"
+    },
+    {
+      "id": "26847ad4",
+      "btype": "kotoba",
+      "kanji": "純粋な",
+      "hira": "じゅんすいな",
+      "grammar": "",
+      "label": "",
+      "x": 522.72253125,
+      "y": 372.8350374999998,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/26847ad4.wav"
+    },
+    {
+      "id": "a0ab5309",
+      "btype": "kotoba",
+      "kanji": "穏やかな",
+      "hira": "おだやかな",
+      "grammar": "",
+      "label": "",
+      "x": 9.7938749999999,
+      "y": -195.84049999999996,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/a0ab5309.wav"
+    },
+    {
+      "id": "64709fac",
+      "btype": "kotoba",
+      "kanji": "強引な",
+      "hira": "ごういんな",
+      "grammar": "",
+      "label": "",
+      "x": -1071.1239999999998,
+      "y": 151.01749999999987,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/64709fac.wav"
+    },
+    {
+      "id": "1ee5609f",
+      "btype": "kotoba",
+      "kanji": "厚かましい",
+      "hira": "あつかましい",
+      "grammar": "",
+      "label": "",
+      "x": 263.7399999999997,
+      "y": -36.7249999999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/1ee5609f.wav"
+    },
+    {
+      "id": "1588d744",
+      "btype": "kotoba",
+      "kanji": "図々しい",
+      "hira": "ずうずうしい",
+      "grammar": "",
+      "label": "",
+      "x": 527.8383749999999,
+      "y": -43.43824999999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/1588d744.wav"
+    },
+    {
+      "id": "f31aad1e",
+      "btype": "kotoba",
+      "kanji": "乱暴な",
+      "hira": "らんぼうな",
+      "grammar": "",
+      "label": "",
+      "x": 263.77262500000006,
+      "y": -227.99899999999977,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/f31aad1e.wav"
+    },
+    {
+      "id": "5b6d4b49",
+      "btype": "kotoba",
+      "kanji": "気が荒い",
+      "hira": "きがあらい",
+      "grammar": "",
+      "label": "",
+      "x": -253.82411875000037,
+      "y": -177.45304999999988,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/5b6d4b49.wav"
+    },
+    {
+      "id": "b8fee4c3",
+      "btype": "kotoba",
+      "kanji": "卑怯な",
+      "hira": "ひきょうな",
+      "grammar": "",
+      "label": "",
+      "x": -355.07558125,
+      "y": 765.0405187499998,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/b8fee4c3.wav"
+    },
+    {
+      "id": "4bf10e96",
+      "btype": "kotoba",
+      "kanji": "裏切る",
+      "hira": "うらぎる",
+      "grammar": "",
+      "label": "",
+      "x": -790.1496374999998,
+      "y": 279.5904874999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/4bf10e96.wav"
+    },
+    {
+      "id": "97bf23f5",
+      "btype": "kotoba",
+      "kanji": "威張る",
+      "hira": "いばる",
+      "grammar": "",
+      "label": "",
+      "x": -11.48562500000017,
+      "y": 445.1139687499998,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/97bf23f5.wav"
+    },
+    {
+      "id": "b1d89448",
+      "btype": "kotoba",
+      "kanji": "ふざける",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": 274.41875000000005,
+      "y": 220.39462499999973,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/b1d89448.wav"
+    },
+    {
+      "id": "7509ed37",
+      "btype": "kotoba",
+      "kanji": "慌てる",
+      "hira": "あわてる",
+      "grammar": "",
+      "label": "",
+      "x": -343.4797000000001,
+      "y": 230.5911000000001,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/7509ed37.wav"
+    },
+    {
+      "id": "0ef04635",
+      "btype": "kotoba",
+      "kanji": "のんきな",
+      "hira": "のんきな",
+      "grammar": "",
+      "label": "",
+      "x": 266.4549999999999,
+      "y": 83.08750000000009,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/0ef04635.wav"
+    },
+    {
+      "id": "03e4fc56",
+      "btype": "kotoba",
+      "kanji": "のんびり",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": 536.8774999999999,
+      "y": 95.04749999999991,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/03e4fc56.wav"
+    },
+    {
+      "id": "beb5ca12",
+      "btype": "kotoba",
+      "kanji": "洒落を言う",
+      "hira": "しゃれをいう",
+      "grammar": "",
+      "label": "",
+      "x": 534.2900000000002,
+      "y": 222.17999999999972,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/beb5ca12.wav"
+    },
+    {
+      "id": "fcf3ccc9",
+      "btype": "kotoba",
+      "kanji": "率直な",
+      "hira": "そっちょくな",
+      "grammar": "",
+      "label": "",
+      "x": -350.4032749999999,
+      "y": 617.4230687499999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/fcf3ccc9.wav"
+    },
+    {
+      "id": "ac635bfd",
+      "btype": "kotoba",
+      "kanji": "どきどきする",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": -102.28876250000008,
+      "y": 252.08833749999982,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/ac635bfd.wav"
+    },
+    {
+      "id": "03ed8c03",
+      "btype": "kotoba",
+      "kanji": "いらいらする",
+      "hira": "",
+      "grammar": "",
+      "label": "",
+      "x": -102.21602499999966,
+      "y": 8.788012499999873,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/03ed8c03.wav"
+    },
+    {
+      "id": "85d75ffb",
+      "btype": "kotoba",
+      "kanji": "気楽",
+      "hira": "きらく",
+      "grammar": "",
+      "label": "",
+      "x": -393.9727499999999,
+      "y": 114.9285562500003,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/85d75ffb.wav"
+    },
+    {
+      "id": "80df5ac8",
+      "btype": "kotoba",
+      "kanji": "機嫌",
+      "hira": "きげん",
+      "grammar": "",
+      "label": "",
+      "x": 476.2678999999998,
+      "y": 729.4966062499998,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/80df5ac8.wav"
+    },
+    {
+      "id": "75f10c29",
+      "btype": "kotoba",
+      "kanji": "見かけ",
+      "hira": "みかけ",
+      "grammar": "",
+      "label": "",
+      "x": 258.9569999999998,
+      "y": 384.3788749999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/75f10c29.wav"
+    },
+    {
+      "id": "2afde9c7",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "Nhóm từ chỉ trạng thái tâm lý nhất thời",
+      "x": -97.79226249999996,
+      "y": 137.03083749999993
+    },
+    {
+      "id": "b7b9cdd3",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "Nhóm từ \"Khí\" (気 - Tâm tính)",
+      "x": -608.6541749999994,
+      "y": 92.69733125000008,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/b7b9cdd3.wav"
+    },
+    {
+      "id": "28809bd5",
+      "btype": "grammar",
+      "kanji": "",
+      "hira": "",
+      "grammar": "～たとたん（に）",
+      "label": "",
+      "x": -725.0999999999999,
+      "y": 490.45000000000005,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/28809bd5.wav"
+    },
+    {
+      "id": "5cfc116b",
+      "btype": "grammar",
+      "kanji": "",
+      "hira": "",
+      "grammar": "～（か）と思うと / ～（か）と思ったら",
+      "label": "",
+      "x": -193.64999999999992,
+      "y": 373.8499999999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/5cfc116b.wav"
+    },
+    {
+      "id": "23e82b5d",
+      "btype": "grammar",
+      "kanji": "",
+      "hira": "",
+      "grammar": "～か～ないかのうちに",
+      "label": "",
+      "x": -419.74999999999983,
+      "y": 330.0499999999999,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/23e82b5d.wav"
+    },
+    {
+      "id": "82bcd9e5",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "たとたん/かと思うと/か～ないかのうちに",
+      "x": -386.40000000000003,
+      "y": 495.6500000000004,
+      "voice_file": "/Users/gooleseswsq1gmail.com/Documents/PentaLang/voice/bài2_tính_cách/82bcd9e5.wav"
+    },
+    {
+      "id": "a1800c19",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "diện mạo bản chất",
+      "x": 469.8813749999998,
+      "y": 528.1518749999999
+    },
+    {
+      "id": "1e7189c3",
+      "btype": "group",
+      "kanji": "",
+      "hira": "",
+      "grammar": "",
+      "label": "Nhóm Đối lập về Thái độ sống",
+      "x": -92.57499999999999,
+      "y": 597.77
+    }
+  ],
+  "conns": [
+    {
+      "id": "e38f2b65",
+      "src_id": "ee8ed04f",
+      "dst_id": "e43da5b6",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "Trái  nghĩa"
+    },
+    {
+      "id": "e75b9305",
+      "src_id": "a3406dc5",
+      "dst_id": "44465e72",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "trái  nghĩa"
+    },
+    {
+      "id": "fb0b8a7e",
+      "src_id": "57a7a44b",
+      "dst_id": "1327f37e",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "trái nghĩa"
+    },
+    {
+      "id": "6d66e85b",
+      "src_id": "d7dc0e10",
+      "dst_id": "43b309b7",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "Trái nghĩa"
+    },
+    {
+      "id": "d6dd4a20",
+      "src_id": "64709fac",
+      "dst_id": "fca8898a",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "Trái  nghĩa"
+    },
+    {
+      "id": "cf6711ef",
+      "src_id": "61fd6826",
+      "dst_id": "04228b31",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "Trái nghĩa"
+    },
+    {
+      "id": "b16ddb17",
+      "src_id": "a0ab5309",
+      "dst_id": "5b6d4b49",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "trái nghĩa"
+    },
+    {
+      "id": "a89896df",
+      "src_id": "f31aad1e",
+      "dst_id": "a0ab5309",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "đồng nghĩa"
+    },
+    {
+      "id": "4e04f8fd",
+      "src_id": "1588d744",
+      "dst_id": "1ee5609f",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "đồng nghĩa"
+    },
+    {
+      "id": "7711c67d",
+      "src_id": "0ef04635",
+      "dst_id": "03e4fc56",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "đồng nghĩa"
+    },
+    {
+      "id": "0d8968c9",
+      "src_id": "b1d89448",
+      "dst_id": "beb5ca12",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "đồng nghĩa"
+    },
+    {
+      "id": "6042b307",
+      "src_id": "2afde9c7",
+      "dst_id": "ac635bfd",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "5048dccf",
+      "src_id": "7509ed37",
+      "dst_id": "2afde9c7",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "fbc1c71d",
+      "src_id": "03ed8c03",
+      "dst_id": "2afde9c7",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "テーマ"
+    },
+    {
+      "id": "694d68ec",
+      "src_id": "04228b31",
+      "dst_id": "b7b9cdd3",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": "ぶんるい"
+    },
+    {
+      "id": "6a94b4e1",
+      "src_id": "5b6d4b49",
+      "dst_id": "b7b9cdd3",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "ぶんるい"
+    },
+    {
+      "id": "aaebbe95",
+      "src_id": "85d75ffb",
+      "dst_id": "b7b9cdd3",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "e679c9cd",
+      "src_id": "2f01eb52",
+      "dst_id": "b7b9cdd3",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "ad200ac8",
+      "src_id": "880f5513",
+      "dst_id": "b7b9cdd3",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "5e187d02",
+      "src_id": "64709fac",
+      "dst_id": "b7b9cdd3",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "ぶんるい"
+    },
+    {
+      "id": "c6eeb963",
+      "src_id": "28809bd5",
+      "dst_id": "82bcd9e5",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "Nhấn mạnh sự bất ngờ."
+    },
+    {
+      "id": "f2c1595f",
+      "src_id": "5cfc116b",
+      "dst_id": "82bcd9e5",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "thay đổi nhanh chóng."
+    },
+    {
+      "id": "fbdc5e68",
+      "src_id": "23e82b5d",
+      "dst_id": "82bcd9e5",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "Nhấn mạnh tính đồng thời (A chưa xong hẳn B đã bắt đầu)"
+    },
+    {
+      "id": "c8b40ce1",
+      "src_id": "75f10c29",
+      "dst_id": "26847ad4",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "vẻ ngoài"
+    },
+    {
+      "id": "83dd6268",
+      "src_id": "a1800c19",
+      "dst_id": "26847ad4",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "3167dd2e",
+      "src_id": "0116e55c",
+      "dst_id": "75f10c29",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "ばしょ"
+    },
+    {
+      "id": "fd6882b8",
+      "src_id": "0116e55c",
+      "dst_id": "a1800c19",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "76fbee51",
+      "src_id": "1e7189c3",
+      "dst_id": "fcf3ccc9",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": ""
+    },
+    {
+      "id": "73b3b1b9",
+      "src_id": "fcf3ccc9",
+      "dst_id": "b8fee4c3",
+      "src_pin": "in",
+      "dst_pin": "in",
+      "label": "dối lập"
+    },
+    {
+      "id": "63d752d4",
+      "src_id": "b8fee4c3",
+      "dst_id": "1e7189c3",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": ""
+    },
+    {
+      "id": "a3431f65",
+      "src_id": "1e7189c3",
+      "dst_id": "bb6e3458",
+      "src_pin": "out",
+      "dst_pin": "in",
+      "label": "まとまり"
+    },
+    {
+      "id": "5c6e0946",
+      "src_id": "a69c571e",
+      "dst_id": "1e7189c3",
+      "src_pin": "in",
+      "dst_pin": "out",
+      "label": "テーマ"
+    },
+    {
+      "id": "4d7338c4",
+      "src_id": "bb6e3458",
+      "dst_id": "a69c571e",
+      "src_pin": "out",
+      "dst_pin": "out",
+      "label": "đối lập"
+    }
+  ],
+  "updated_at": "2026-04-16 17:40:02"
+}
